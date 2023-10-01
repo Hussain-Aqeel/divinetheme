@@ -1,0 +1,15 @@
+{
+  "name": "Divine Theme",
+  "dark": true,
+  "author": "Hussain Aljassim",
+  "editorScheme": "/theme/divine.xml",
+  "ui": {
+    "*": {
+      "background": "#1D1E26"
+     },
+    "EditorTabs": {
+      "borderColor": "#1D1E26",
+      "hoverBackground": "#17181e"
+    }
+  }
+}
